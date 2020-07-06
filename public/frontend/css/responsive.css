@@ -1,0 +1,12 @@
+@media (max-width:576px){
+    .eye{
+        display: none;
+    }
+    .anchor{
+        display: none;
+    }
+    .unit_bg_padding{
+        padding-top: 25px;
+        padding-bottom: 35px;
+    }
+}
